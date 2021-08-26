@@ -1,5 +1,5 @@
 # Granule
-Granulinator: A MATLAB script to identify granules in fluorescence image data. This scripts works in 2020b and should work in newer versions as well.
+Granulinator: A MATLAB script to identify granules in fluorescence image data. This scripts works in MATLAB ver.2020b and should work in newer versions as well.
 
 This script is described in: Jeremy C. Hunn, Katherine M. Hutchinson, Joshua B. Kelley, Daniel Reines  AN ALGORITHM TO QUANTIFY INDUCIBLE PROTEIN CONDENSATES IN EUKARYOTIC CELLS. bioRxiv DOI:...
 
